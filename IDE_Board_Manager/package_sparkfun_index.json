@@ -2058,7 +2058,7 @@
           "boards": [
             { "name": "SparkFun STM32 Thing Plus" },
             { "name": "SparkFun STM32 MicroMod"},
-            { "name": "SparkFun Generic F405RG" }
+            { "name": "Generic F405RG" }
           ],
           "toolsDependencies": [
             {
