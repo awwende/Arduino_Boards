@@ -11,7 +11,7 @@
       "platforms": [
         {
           "name": "SparkFun STM32 Boards",
-          "architecture": "stm32",
+          "architecture": "STM32",
           "version": "1.9.0",
           "category": "Contributed",
           "url": "https://github.com/awwende/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfun-stm32-1.9.0.tar.bz2",
