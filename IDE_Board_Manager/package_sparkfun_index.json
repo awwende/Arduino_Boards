@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "SparkFun",
+      "name": "STM32",
       "maintainer": "SparkFun Electronics",
       "websiteURL": "https://SparkFun.com",
       "email": "TechSupport@SparkFun.com",
