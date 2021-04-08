@@ -863,7 +863,7 @@
           "architecture": "stm32",
           "version": "1.9.0",
           "category": "Contributed",
-          "url": "https://github.com/awwende/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfun-stm32-1.9.0.tar.bz2",
+          "url": "https://github.com/awwende/Arduino_Boards/raw/main/IDE_Board_Manager/sparkfun-stm32-1.9.0.tar.bz2",
           "archiveFileName": "sparkfun-stm32-1.9.0.tar.bz2",
           "checksum": "SHA-256:b96a23f291de08e5d4f39eade76cdc17242147614542f9c70184dc766b3a211b",
           "size": "4937000",
