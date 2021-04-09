@@ -830,7 +830,7 @@
           "architecture": "esp32",
           "version": "1.0.1",
           "category": "Contributed",
-          "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfun-esp32-1.0.1.tar.bz2",
+          "url": "https://github.com/awwende/Arduino_Boards/raw/main/IDE_Board_Manager/sparkfun-esp32-1.0.1.tar.bz2",
           "archiveFileName": "sparkfun-esp32-1.0.1.tar.bz2",
           "checksum": "SHA-256:cc79b686136fbf09ed89275cd7a812013d2f2ebd697ab46e6241b5786bbe8457",
           "size": "46492603",
