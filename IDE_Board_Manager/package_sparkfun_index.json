@@ -832,8 +832,8 @@
           "category": "Contributed",
           "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfun-esp32-1.0.1.tar.bz2",
           "archiveFileName": "sparkfun-esp32-1.0.1.tar.bz2",
-          "checksum": "SHA-256:030ee494bdf5ae8870042704e99ba0e27313c42f90a284babeaaac9a2deeb6a1",
-          "size": "33167738",
+          "checksum": "SHA-256:cc79b686136fbf09ed89275cd7a812013d2f2ebd697ab46e6241b5786bbe8457",
+          "size": "46492603",
           "boards": [
             { "name": "SparkFun ESP32 Thing" },
             { "name": "SparkFun ESP32 Thing Plus"},
